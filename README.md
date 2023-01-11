@@ -1,3 +1,6 @@
 # Hello 
 
-Things and stuff
+## I'm practicing with git and Github
+
+
+
